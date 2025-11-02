@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JMF-Alex?tab=repositories](https://github.com/JMF-Alex?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/JMF-Alex?tab=repositories)
 
 - 💬 Ask me about **React, TypeScript**
 
@@ -148,6 +148,6 @@
     <a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg" alt="yaml" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmf-alex&show_icons=true&locale=en&layout=compact&langs_count=8&cache_seconds=1800&v=7" alt="jmf-alex" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmf-alex&show_icons=true&locale=en&layout=compact&langs_count=8&cache_seconds=1800&v=8" alt="jmf-alex" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmf-alex&show_icons=true&locale=en" alt="jmf-alex" /></p>
