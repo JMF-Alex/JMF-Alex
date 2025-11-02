@@ -29,6 +29,7 @@
     <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/28/28788.png" alt="batch" width="40" height="40" /> </a>
     <a href="https://www.isc.org/bind/" target="_blank" rel="noreferrer"> <img src="https://www.isc.org/images/Bind_9_ISC_Blue_320x320.png" alt="bind9" width="60" height="40" /> </a>
     <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitbucket-blue-logomark-only.svg" alt="bitbucket" width="40" height="40" /> </a>
+    <a href="https://bitvise.com/" target="_blank" rel="noreferrer"> <img src="https://bitvise.com/files/n-logo.svg" alt="bitvise" width="80" height="40" /> </a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" /> </a>
     <a href="https://www.blesta.com/" target="_blank" rel="noreferrer"> <img src="https://www.blesta.com/img/blesta/branding/blesta-logo-color.svg" alt="blesta" width="80" height="40" /> </a>
     <a href="https://github.com/pterodactyl/blueprint" target="_blank" rel="noreferrer"> <img src="https://pterodactylmarket.com/images/users/8658.webp" alt="pterodactyl blueprint" width="40" height="40" /> </a>
