@@ -36,13 +36,14 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
     <a href="https://bukkit.org/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/igYbvzR.png" alt="bukkit" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40" /> </a>
-    <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40" /> </a>
+    <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" alt="Canva" width="80" height="40" /> </a>
     <a href="https://cpanel.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/CPanel_logo.svg" alt="cpanel" width="80" height="40"/></a>
-    <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="40" height="40" /> </a>
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40" /> </a>
     <a href="https://www.centos.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" alt="centos" width="80" height="40" /> </a>
     <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="cisco" width="80" height="40" /> </a>
     <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
+    <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="40" height="40" /> </a>
     <a href="https://cyberpanel.net/" target="_blank" rel="noreferrer"><img src="https://cyberpanel.net/wp-content/uploads/2024/01/logo.svg" alt="cyberpanel" width="80" height="40"/></a>
     <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" alt="debian" width="40" height="40" /> </a>
     <a href="https://www.directadmin.com/" target="_blank" rel="noreferrer"><img src="https://www.directadmin.com/img/logo/logo_directadmin.svg" alt="directadmin" width="80" height="40"/></a>
