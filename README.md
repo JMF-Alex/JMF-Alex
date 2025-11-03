@@ -26,6 +26,7 @@
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/480px-Apache_HTTP_server_logo_%282019-present%29.svg.png" alt="apache" width="100" height="40" /> </a>
     <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" alt="arch linux" width="40" height="40" /> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Asp.net.svg" alt="asp.net" width="80" height="40"/></a>
     <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://astro.build/assets/press/astro-logo-dark.svg" alt="astro" width="80" height="40"/></a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> </a>
@@ -80,6 +81,7 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+    <a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" alt="javafx" width="80" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /> </a>
     <a href="https://jexactyl.com/" target="_blank" rel="noreferrer"> <img src="https://www.jexactyl.com/_nuxt/img/logo.8b07b51.jpg" alt="jexactyl" width="40" height="40" /> </a>
@@ -120,6 +122,7 @@
     <a href="https://pterodactyl.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Pterodactyl_logo_transparent.png" alt="pterodactyl" width="100" height="40" /> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://www.pufferpanel.com/" target="_blank" rel="noreferrer"><img src="https://pufferpanel.com/logo.png" alt="pufferpanel" width="80" height="40"/></a>
+    <a href="https://learn.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-9.0&tabs=visual-studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Razor_logo.svg" alt="razor" width="40" height="40"/></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
     <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
@@ -144,6 +147,9 @@
     <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" alt="vmware" width="80" height="40" /> </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a>
     <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> </a>
+    <a href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" alt="Windows" width="160" height="40" /> </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo-2010.png" alt="WindowsForms" width="80" height="40" /> </a>
+    <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Windows_Server_logo.svg" alt="WindowsServer" width="200" height="40" /> </a>
     <a href="https://winmtr.net/" target="_blank" rel="noreferrer"> <img src="https://winmtr.net/logo-winmtr.png" alt="WinMTR" width="80" height="40" /> </a>
     <a href="https://winscp.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" alt="winscp" width="40" height="40"/></a>
     <a href="https://www.whmcs.com/" target="_blank" rel="noreferrer"> <img src="https://www.whmcs.com/images/logo/whmcs-logo.png" alt="whmcs" width="100" height="40" /> </a>
