@@ -1,5 +1,9 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=jmf-alex&label=Profile%20views&color=0e75b6&style=flat" alt="jmf-alex" />
+</p>
+
 <h1 align="center">Hi 👋, I'm JMF</h1>
-<h3 align="center">A junior developer from Spain</h3>
+<h3 align="center">A junior developer from Spain </h3>
 
 - 🔭 I’m currently working on [Tect.host](https://tect.host)
 
@@ -153,3 +157,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmf-alex&show_icons=true&locale=en&layout=compact&langs_count=8&cache_seconds=1800&v=8" alt="jmf-alex" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmf-alex&show_icons=true&locale=en" alt="jmf-alex" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmf-alex&" alt="jmf-alex" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmf-alex" alt="jmf-alex" /></a> </p>
