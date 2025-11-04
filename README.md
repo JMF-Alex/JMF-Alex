@@ -31,6 +31,7 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
+    <a href="https://en.wikipedia.org/wiki/BASIC" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Basic_logo.svg" alt="basic" width="80" height="40" /> </a>
     <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/28/28788.png" alt="batch" width="40" height="40" /> </a>
     <a href="https://www.isc.org/bind/" target="_blank" rel="noreferrer"> <img src="https://www.isc.org/images/Bind_9_ISC_Blue_320x320.png" alt="bind9" width="60" height="40" /> </a>
     <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitbucket-blue-logomark-only.svg" alt="bitbucket" width="40" height="40" /> </a>
@@ -39,6 +40,7 @@
     <a href="https://www.blesta.com/" target="_blank" rel="noreferrer"> <img src="https://www.blesta.com/img/blesta/branding/blesta-logo-color.svg" alt="blesta" width="80" height="40" /> </a>
     <a href="https://github.com/pterodactyl/blueprint" target="_blank" rel="noreferrer"> <img src="https://pterodactylmarket.com/images/users/8658.webp" alt="pterodactyl blueprint" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
+    <a href="https://www.usebruno.com/" target="_blank" rel="noreferrer"><img src="https://docs.usebruno.com/bruno.png" alt="bruno" width="40" height="40"/></a>
     <a href="https://bukkit.org/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/igYbvzR.png" alt="bukkit" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40" /> </a>
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" alt="Canva" width="80" height="40" /> </a>
@@ -50,6 +52,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
     <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="40" height="40" /> </a>
     <a href="https://cyberpanel.net/" target="_blank" rel="noreferrer"><img src="https://cyberpanel.net/wp-content/uploads/2024/01/logo.svg" alt="cyberpanel" width="80" height="40"/></a>
+    <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="dbeaver" width="40" height="40" /> </a>
     <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" alt="debian" width="40" height="40" /> </a>
     <a href="https://www.directadmin.com/" target="_blank" rel="noreferrer"><img src="https://www.directadmin.com/img/logo/logo_directadmin.svg" alt="directadmin" width="80" height="40"/></a>
     <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" alt="digitalocean" width="40" height="40" /> </a>
@@ -67,6 +70,7 @@
     <a href="https://en.wikipedia.org/wiki/File_Transfer_Protocol" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/49250/ftp-upload.svg" alt="ftp" width="40" height="40" /> </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>
     <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40" /> </a>
+    <a href="https://genially.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Genially_%282023%29_logotipo.png" alt="genially" width="40" height="40" /> </a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://www.gitbook.com/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2699/PNG/512/gitbook_logo_icon_169117.png" alt="gitbook" width="80" height="40" /> </a>
@@ -129,8 +133,9 @@
     <a href="https://rufus.ie/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Rufus-logo.png" alt="rufus" width="40" height="40"/></a>
     <a href="https://www.spigotmc.org/" target="_blank" rel="noreferrer"> <img src="https://proxy.spigotmc.org/a8fa5c49b64fdfc435cc3837163e21fbcc282084/687474703a2f2f692e696d6775722e636f6d2f4a6b594d4b58362e706e67" alt="spigot" width="40" height="40" /> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="springboot" width="40" height="40" /> </a>
-    <a href="https://www.openssh.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Unofficial_SSH_Logo.svg" alt="openssh" width="40" height="40" /> </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
+    <a href="https://www.openssh.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Unofficial_SSH_Logo.svg" alt="openssh" width="40" height="40" /> </a>
+    <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2025/07/supabase-logo_brandlogos.net_wahxg-scaled.png" alt="supabase" width="80" height="40" /> </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
     <a href="https://www.termius.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/504947/termius.svg" alt="termius" width="40" height="40"/></a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
@@ -144,6 +149,7 @@
     <a href="https://virtfusion.com/" target="_blank" rel="noreferrer"><img src="https://virtfusion.com/wp-content/uploads/2022/03/logo_color.svg" alt="virtfusion" width="80" height="40"/></a>
     <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" alt="virtualbox" width="40" height="40" /> </a>
     <a href="https://www.virtualizor.com/" target="_blank" rel="noreferrer"> <img src="https://sharedlicense.co.uk/wp-content/uploads/2025/10/virtualizor-1.png" alt="Virtualizor" width="100" height="40" /> </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="VisualBasic" width="40" height="40" /> </a>
     <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" alt="vmware" width="80" height="40" /> </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a>
     <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> </a>
