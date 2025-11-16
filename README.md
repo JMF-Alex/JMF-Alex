@@ -186,14 +186,15 @@
     <a href="https://winscp.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png" alt="winscp" width="40" height="40"/></a>
     <a href="https://www.whmcs.com/" target="_blank" rel="noreferrer"> <img src="https://www.whmcs.com/images/logo/whmcs-logo.png" alt="whmcs" width="100" height="40" /> </a>
     <!-- X -->
-    <a href="https://xtermjs.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/11927490?v=4" alt="xtermjs" width="40" height="40" /> </a>
+    <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Xml_logo.svg" alt="xml" width="80" height="40" /></a>
+    <a href="https://www.w3.org/XML/Schema" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPr2H2EzVjlguhtkLkYDXpLiy4Prol3AaWog&s" alt="xsd" width="40" height="40" /></a>
+    <a href="https://xtermjs.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/11927490?v=4" alt="xtermjs" width="40" height="40" /></a>
     <a href="https://xubuntu.org/" target="_blank" rel="noreferrer"><img src="https://static.xubuntu.org/xubuntu_brand/Logo/SVG/icon.svg" alt="xubuntu" width="40" height="40"/></a>
-    <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Xml_logo.svg" alt="xml" width="80" height="40" /> </a>
     <!-- Y -->
     <a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg" alt="yaml" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmf-alex&show_icons=true&locale=en&layout=compact&langs_count=8&cache_seconds=1800&v=13" alt="jmf-alex" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmf-alex&show_icons=true&locale=en&layout=compact&langs_count=8&cache_seconds=1800&v=14" alt="jmf-alex" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmf-alex&show_icons=true&locale=en" alt="jmf-alex" /></p>
 
