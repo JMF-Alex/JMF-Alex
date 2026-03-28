@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **React, TypeScript**
 
+- My [portfolio](https://jmf-alex.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/8KQzqpww8s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8KQzqpww8s" height="30" width="40" /></a>
@@ -194,7 +196,7 @@
     <a href="https://yaml.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg" alt="yaml" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmf-alex&show_icons=true&locale=en&layout=compact&langs_count=8&cache_seconds=1800&v=20" alt="jmf-alex" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmf-alex&show_icons=true&locale=en&layout=compact&langs_count=8&cache_seconds=1800&v=21" alt="jmf-alex" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmf-alex&show_icons=true&locale=en" alt="jmf-alex" /></p>
 
