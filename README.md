@@ -44,7 +44,7 @@
     <a href="https://www.blesta.com/" target="_blank" rel="noreferrer"> <img src="https://www.blesta.com/img/blesta/branding/blesta-logo-color.svg" alt="blesta" width="80" height="40" /> </a>
     <a href="https://github.com/pterodactyl/blueprint" target="_blank" rel="noreferrer"> <img src="https://pterodactylmarket.com/images/users/8658.webp" alt="pterodactyl blueprint" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://www.usebruno.com/" target="_blank" rel="noreferrer"><img src="https://docs.usebruno.com/bruno.png" alt="bruno" width="40" height="40"/></a>
+    <a href="https://www.usebruno.com/" target="_blank" rel="noreferrer"><img src="https://docs.usebruno.com/favicon.png" alt="bruno" width="40" height="40"/></a>
     <a href="https://bukkit.org/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/igYbvzR.png" alt="bukkit" width="40" height="40"/></a>
     <!-- C -->
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40" /> </a>
