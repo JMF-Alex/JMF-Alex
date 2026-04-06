@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Java**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/JMF-Alex?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://jmf-alex.vercel.app/en/projects)
 
 - 💬 Ask me about **React, TypeScript**
 
