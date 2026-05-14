@@ -3,7 +3,15 @@
 </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Tect.host](https://tect.host)<br><br>- 🌱 I’m currently learning **Next.js, TypeScript, Java**<br><br>- 👨‍💻 All of my projects are available [here](https://jmf-alex.vercel.app/en/projects)<br><br>- 💬 Ask me about **React, TypeScript**<br><br>- My [portfolio](https://jmf-alex.vercel.app/)
+- 🔭 I’m currently working on [Tect.host](https://tect.host)
+
+- 🌱 I’m currently learning **Next.js, TypeScript, Java**
+
+- 👨‍💻 All of my projects are available [here](https://jmf-alex.vercel.app/en/projects)
+
+- 💬 Ask me about **React, TypeScript**
+
+- 🌐 My [portfolio](https://jmf-alex.vercel.app/)
 
 
 ## 🌐 Socials:
