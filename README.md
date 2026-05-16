@@ -1,4 +1,5 @@
 <p align="right">
+  <a href="https://wakatime.com/@1f863f10-c890-49fb-8a3b-781ca078c725"><img src="https://wakatime.com/badge/user/1f863f10-c890-49fb-8a3b-781ca078c725.svg" alt="Total time coded since May 16 2026" /></a>
   <img src="https://komarev.com/ghpvc/?username=jmf-alex&label=Profile%20views&color=0e75b6&style=flat" alt="jmf-alex" />
 </p>
 
