@@ -39,7 +39,7 @@ I run **[Tect.host](https://tect.host)**, a hosting company offering Minecraft s
 | 🛠️ **TShell** | CLI that automates installing server software on Linux, with a web admin panel | Go, Node.js, Express |
 | 🤖 **TectBot** | Discord bot for the Tect.host community and support | TypeScript, discord.js |
 | 🔍 **HLooking Glass** | Network diagnostic tool: ping, traceroute, MTR and BGP lookups | Next.js, TypeScript |
-| 🖱️ **HAutoClicker** | Desktop autoclicker with profile management | Python, Tkinter |
+| 🖱️ **HAutoClicker** | Desktop autoclicker with profile management | Rust, Tauri, Vite, TypeScript |
 | 📂 **SearchKit** | Fast text-search module for PowerShell, in the spirit of ripgrep | PowerShell |
 
 > 📁 More projects at **[jmf-alex.vercel.app/en/projects](https://jmf-alex.vercel.app/en/projects)** and in the **[TectHost organization](https://github.com/TectHost)**.
